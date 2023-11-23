@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on successfully graduating
+- 🌱 I’m currently learning photograpy, graphic design
+- 💬 Ask me about music
+- 📫 How to reach me: good luck with that
+- ⚡ Fun fact: I have more hobbies than you can even imagine
+
 <!--
 **nvimpel/nvimpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
