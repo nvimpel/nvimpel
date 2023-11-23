@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on successful graduation
 - 🌱 I’m currently learning photograpy, graphic design
-- 💬 Ask me about music
-- 📫 How to reach me: good luck with that
+- 💬 Ask me anything
+- 📫 How to reach me: good luck with that :D
 - ⚡ Fun fact: I have more hobbies than you can even imagine
 
 <!--
