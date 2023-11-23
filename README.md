@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on successfully graduating
+- 🔭 I’m currently working on successful graduation
 - 🌱 I’m currently learning photograpy, graphic design
 - 💬 Ask me about music
 - 📫 How to reach me: good luck with that
