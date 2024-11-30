@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on successful graduation
 - 🌱 I’m currently learning photograpy, graphic design
 - 💬 Ask me anything
-- 📫 How to reach me: good luck with that :D
-- ⚡ Fun fact: I have more hobbies than you can even imagine
+- ⚡ Fun fact: My hobby is collecting new hobbies
 
 <!--
 **nvimpel/nvimpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
